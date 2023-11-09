@@ -8,5 +8,5 @@ Repo for installing Fontshare Fonts.
 4. Upload  `Fonts/WEB/fonts` to web root
 5. Upload FontShare CSS file 
 6. Import FontShare CSS file into our CSS file 
-7. Use font in `style.css`` `
+7. Use font in `style.css`
 
